@@ -1,0 +1,3 @@
+/Users/jesuslongares/CLionProjects/Project1-Maze/cmake-build-debug/CMakeFiles/Maze.dir
+/Users/jesuslongares/CLionProjects/Project1-Maze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesuslongares/CLionProjects/Project1-Maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
