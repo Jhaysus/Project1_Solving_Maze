@@ -19,7 +19,7 @@ class Maze2 {
     void printMaze();
     //prints location of where start and end
     void getStart();
-    void etEnd();
+    void getEnd();
     void solveMaze();
 
     private:
